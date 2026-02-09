@@ -1,1 +1,3 @@
 .meu_venv
+build/
+dist/
