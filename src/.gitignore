@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Ambiente Virtual (Seu nome específico) ---
+meu_venv/
+venv/
+env/
+
+# --- VS Code ---
+.vscode/
+*.code-workspace
+
+# --- PyInstaller (Arquivos de build) ---
+build/
+dist/
+*.spec
+
+# --- Arquivos Temporários do Office (Word/Excel) ---
+~$*.doc*
+~$*.xls*
+
+# --- Logs e Backups ---
+*.log
+Testes_backups/
+
+# --- Específico do OS ---
+Thumbs.db
+Desktop.ini
+
+# --- Arquivos de construção ---
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.so
+
